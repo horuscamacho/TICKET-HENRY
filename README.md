@@ -30,12 +30,14 @@ Firebase
 
 ## Autores
 
-Joaquin Boto - linkedin
-Luis Daniel Rios Barba - linkedin
-Cristian Albornoz - linkedin
-Horus Camacho - linkedin
-Jonatan Musciachio - linkedin
-Luciano Coronel - linkedin
+- Joaquin Boto - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinboto)
+- Luis Daniel Rios Barba - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisdanielrios) 
+- Cristian Albornoz - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-gabriel-albornoz-06bb07238) 
+- Joaquin Boto - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinboto/)
+- Jonatan Musciachio - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatanmusciachio)
+- Luciano Coronel - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-coronel-90503bb8/)
+
+
 
 ## Instalación
 

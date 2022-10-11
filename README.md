@@ -1,9 +1,9 @@
 # TICKET-HENRY PROYECTO
-Tienda online de eventos
+## Tienda online de eventos
 
 Visit Page: https://ecommerce-pg-nine.vercel.app/
 
-Funcionalidades
+## Funcionalidades
 
 USUARIO:
 
@@ -20,7 +20,7 @@ Dashboard de admin
 Seccion para crear eventos.
 Dentro del dashboard de admin: Carritos activos y desactivados con sus resumenes de compra. Listado de usuario , donde se puede asignar roles , banear o desbanear un usuario , eventos activos, eliminarlos o editarlos.
 
-Tecnologías usadas en el proyecto:
+## Tecnologías usadas en el proyecto:
 
 React
 Tailwind
@@ -28,7 +28,7 @@ Node
 Postgres
 Firebase
 
-Authors
+## Autores
 
 Joaquin Boto - linkedin
 Luis Daniel Rios Barba - linkedin
@@ -37,12 +37,12 @@ Horus Camacho - linkedin
 Jonatan Musciachio - linkedin
 Luciano Coronel - linkedin
 
-Instalación
+## Instalación
 
 In the project directory, you can run:
 git clone https://github.com/horuscamacho/TICKET-Henry.git
 
-BoilerPlate
+## BoilerPlate
 
 El boilerplate cuenta con dos carpetas: api y client. En estas carpetas estará el código del back-end y el front-end respectivamente.
 
@@ -63,7 +63,7 @@ AUTH_ROUNDS='10'
 
 Reemplazar usuariodepostgres y passwordDePostgres con tus propias credenciales para conectarte a postgres. Este archivo va ser ignorado en la subida a github, ya que contiene información sensible (las credenciales).
 
-Adicionalmente será necesario que creen desde psql una base de datos llamada ecommerce
+## Adicionalmente será necesario que creen desde psql una base de datos llamada ecommerce
 
 npm install
 
